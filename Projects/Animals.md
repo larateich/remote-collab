@@ -103,3 +103,9 @@ A big ol' quarantine mood
 ![Turtle skating](https://media.giphy.com/media/HuVCpmfKheI2Q/giphy.gif)
 
 He was a sk8er boi...
+
+## Koalas
+
+![Koala snoozing] (https://images.unsplash.com/photo-1579972383667-4894c883d674?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80) 
+
+_a snoozy little koala_
